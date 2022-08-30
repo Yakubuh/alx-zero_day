@@ -1,0 +1,9 @@
+git pull 
+cd ./alx-zero_day
+ls
+cd ./0x03-git
+git staus
+git add 'up_to_date'
+
+git commit -m "How to be up to date in git"
+git push origin main
